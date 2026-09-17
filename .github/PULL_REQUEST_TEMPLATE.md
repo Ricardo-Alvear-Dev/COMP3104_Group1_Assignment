@@ -2,7 +2,15 @@
 
 ## Description
 
-Provide a concise summary of the changes made in this pull request and link any relevant issues or tasks.
+**Step 8 Summary: Creating a Pull Request Template**
+
+* **Responsible Party:** Team Leader
+* **Action:** Create a Markdown file in the repository located at `.github/PULL_REQUEST_TEMPLATE.md`.
+* **Purpose:** Standardize the Pull Request process by ensuring all team members provide necessary context and complete pre-submission checks before merging code into `main`.
+* **Required Contents:**
+* **Description:** A section summarizing code changes and referencing related issues.
+* **Type of Change:** Checkboxes to categorize the update (Bug fix, New feature, Documentation update).
+* **Checklist:** A set of checkboxes confirming self-review, commenting, lack of warnings, documentation updates, and passing tests.
 
 ---
 
