@@ -1,1 +1,1 @@
-devops
+Curriculum Focus: Covers core DevOps principles, including Continuous Integration (CI), Continuous Deployment (CD), deployment pipelines, release management, and measuring DevOps metrics.
